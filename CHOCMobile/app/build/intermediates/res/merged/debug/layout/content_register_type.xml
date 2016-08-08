@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/regchoice"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.playstore.shatterdev.chocmobile.register_type"
+    tools:showIn="@layout/register_type_layout">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/btnPatient"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/patient"
+        android:layout_marginBottom="20dp"/>
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/btnVolunteer"
+        android:background="@drawable/volunteer"
+        android:layout_below="@+id/btnPatient"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="92dp" />
+</RelativeLayout>

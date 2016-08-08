@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mainscreen_activity.xml",
+        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\src\\main\\res\\menu\\menu_mainscreen_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_facts_activity.xml",
+        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\src\\main\\res\\menu\\menu_facts_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register_tab_activity.xml",
+        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\src\\main\\res\\menu\\menu_register_tab_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard_layout_drawer.xml",
+        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\src\\main\\res\\menu\\dashboard_layout_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard_activity.xml",
+        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\CHOCMobile\\app\\src\\main\\res\\menu\\dashboard_activity.xml"
+    }
+]
